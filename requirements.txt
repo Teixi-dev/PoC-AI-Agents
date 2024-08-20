@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+transformers
+torch
+langchain-community
+langchain_openai
+python-dotenv
